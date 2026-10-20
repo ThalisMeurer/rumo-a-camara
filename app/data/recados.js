@@ -1,7 +1,7 @@
 // Recadinhos personalizados com muito carinho para a futura Analista Legislativa! ❤️
 // tipo: "nivel" (ao atingir o nível), "sequencia" (dias seguidos), "questoes" (total respondidas)
 window.RECADOS = [
-  { tipo: "nivel", valor: 1, texto: "Bem-vinda, meu amor! Fiz este app todinho pensando em você. Somos como Pancake e Choco nessa jornada: parceiros em tudo. Cada questão certa é um passinho a mais pro nosso futuro juntos. Tô com você em cada clique! ❤️🥞🍫" },
+  { tipo: "nivel", valor: 1, texto: "Bem-vinda, florzinha! Fiz este app todinho pensando em você. Somos como Pancake e Choco nessa jornada: parceiros em tudo. Cada questão certa é um passinho a mais pro nosso futuro juntos. Tô com você em cada clique! ❤️🥞🍫" },
   { tipo: "sequencia", valor: 3, texto: "3 dias seguidos firme nos estudos! Como diria o Jão: nosso alinhamento é milenar. Ver a sua dedicação só me faz ter mais certeza do quanto você é incrível e brilhante. Orgulho demais de você! ✨" },
   { tipo: "questoes", valor: 50, texto: "50 questões respondidas! A Pitoca já tá latindo lá do futuro, abanando o rabinho e dizendo: 'minha mamãe vai ser servidora da Câmara dos Deputados!' 🐶🐾" },
   { tipo: "nivel", valor: 2, texto: "Nível 2 desbloqueado com sucesso! 'Y soy rebelde...' 🎸 Garra de sobra, estilo Mía Colucci e logo logo de crachá oficial no peito em Brasília. Ninguém te segura!" },
@@ -11,7 +11,7 @@ window.RECADOS = [
   { tipo: "sequencia", valor: 7, texto: "Uma semana inteira sem falhar! 7 dias de constância pura! O Choco aqui tá muito orgulhoso da Pancake dele. Merece um descanso gostoso, cafuné e um lanche caprichado hoje! 🥞🍫❤️" },
   { tipo: "questoes", valor: 200, texto: "200 questões! A nossa futura casinha já tá ganhando forma: sala espaçosa, o cantinho do seu home office e a caminha da Pitoca bem pertinho da gente. Você tá arrasando tanto! 🏡🐶" },
   { tipo: "nivel", valor: 4, texto: "Nível 4! 'Se eu não me virar, quem vai?' No melhor estilo Jão e com a atitude do RBD, você tá mostrando pro Cebraspe quem é que manda. Rumo ao topo! 🎤🔥" },
-  { tipo: "sequencia", valor: 14, texto: "Duas semanas seguidas de foco! 14 dias sem errar o compromisso com você mesma. É tanta disciplina e inteligência que meu peito se enche de admiração. Você é única, meu amor. 💖" },
+  { tipo: "sequencia", valor: 14, texto: "Duas semanas seguidas de foco! 14 dias sem errar o compromisso com você mesma. É tanta disciplina e inteligência nesse meu pacotinho que meu peito se enche de orgulho. Você é única, meu amor. 💖" },
   { tipo: "questoes", valor: 300, texto: "300 questões no bolso! Brinde imaginário com Aperol Spritz com vista pro penhasco de Positano na Itália! Cada acerto aqui é um pedacinho da nossa viagem garantido. 🥂🇮🇹" },
   { tipo: "nivel", valor: 5, texto: "Nível 5! Metade da montanha já foi escalada. Respira fundo, olha o tanto de matéria que você já dominou. Você é mais forte e inteligente do que imagina. E eu sou seu fã número 1. 🌟" },
   { tipo: "sequencia", valor: 21, texto: "21 dias seguidos! Dizem que 21 dias criam um hábito de vida. Você não tá apenas estudando, tá se tornando a servidora pública exemplar que a Câmara precisa. Que mulher incrível! 👏" },
