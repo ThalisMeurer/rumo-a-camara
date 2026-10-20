@@ -16,7 +16,7 @@ window.RECADOS = [
   { tipo: "nivel", valor: 5, texto: "Nível 5! Metade da montanha já foi escalada. Respira fundo, olha o tanto de matéria que você já dominou. Você é mais forte e inteligente do que imagina. E eu sou seu fã número 1. 🌟" },
   { tipo: "sequencia", valor: 21, texto: "21 dias seguidos! Dizem que 21 dias criam um hábito de vida. Você não tá apenas estudando, tá se tornando a servidora pública exemplar que a Câmara precisa. Que mulher incrível! 👏" },
   { tipo: "questoes", valor: 500, texto: "500 questões! Meio milhar de itens Cebraspe triturados! Hoje a escolha do restaurante ou da sobremesa é 100% sua por merecimento absoluto. Te amo infinito! 🍰🍷" },
-  { tipo: "nivel", valor: 7, texto: "Nível 7! Como diz a Zimbra: coisas boas acontecem pra quem persiste com o coração. O edital tá ficando pequeno pra você. Falta pouco, meu amor! 🎵✨" },
+  { tipo: "nivel", valor: 7, texto: "Nível 7! Como diz a Zimbra em Viva: '...independente do que te aconteça, embora não pareça eu sempre estarei do seu lado pra ajudar'. O edital tá ficando pequeno pra você, florzinha. Falta pouco pro topo! 🎵✨" },
   { tipo: "sequencia", valor: 30, texto: "30 DIAS SEGUIDOS! Um mês inteiro de consistência inabalável! Pancake e Choco vencendo o mundo, a Pitoca garantida e a Itália nos esperando. Você é o meu maior orgulho. Te amo pra sempre! ❤️🥞🐶🇮🇹" },
   { tipo: "nivel", valor: 8, texto: "Nível 8! Quando sair o Diário Oficial com seu nome no topo da lista dos aprovados de Jornalismo da Câmara, eu vou ser a pessoa mais barulhenta e feliz do mundo te abraçando bem apertado. Vai dar certo! 🏛️📜🍾" }
 ];
