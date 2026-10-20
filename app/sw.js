@@ -1,5 +1,5 @@
 // Service worker: funciona offline. AO ALTERAR QUALQUER ARQUIVO, incremente VERSAO.
-const VERSAO = "rumo-v7";
+const VERSAO = "rumo-v8";
 const ARQUIVOS = [
   "./", "index.html", "styles.css", "app.js", "manifest.webmanifest",
   "data/edital.js", "data/questoes.js", "data/flashcards.js", "data/discursivas.js", "data/materiais.js", "data/recados.js",
